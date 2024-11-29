@@ -1,0 +1,6 @@
+@TurneroMedico1_HostAddress = http://localhost:5089
+
+GET {{TurneroMedico1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
